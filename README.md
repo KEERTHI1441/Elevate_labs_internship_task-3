@@ -1,5 +1,3 @@
-## **README.md Content**
-
 ````markdown
 # 🛡️ Basic Vulnerability Scan using OpenVAS (Full and Fast)
 
